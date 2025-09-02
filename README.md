@@ -1,3 +1,5 @@
+NOTE: This repository uses Git LFS, downloading the .zip file wont work you need to always clone the git.
+
 Works for any mods. 
 File with data will be created in: C:\Program Files (x86)\Steam\steamapps\common\Hearts of Iron IV
 
